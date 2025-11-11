@@ -1,0 +1,8 @@
+/* Contenido del <style> original */
+body {
+  font-family: 'Inter', sans-serif;
+}
+.hero-bg {
+  background-color: #f0f4f8;
+  background-image: linear-gradient(to right, #eef2f5, #ffffff);
+}
